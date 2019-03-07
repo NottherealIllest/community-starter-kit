@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An app that welcomes new team members, this can give team members a sense of belonging ..remember " Unity is strength. . . when there is teamwork and collaboration, wonderful things can be achieved." --Mattie Stepanek
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Welcome team members
+- Show them around & how to get started
 
 ## Getting started
 
