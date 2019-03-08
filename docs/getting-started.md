@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome Habeeb to our Slack channel please find out about daily tasks on Jira and feel free to ask josh for arrangements on out weekly game nights
